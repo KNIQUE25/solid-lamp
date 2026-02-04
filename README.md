@@ -27,11 +27,18 @@ TechHaven is an online marketplace specializing in cutting-edge technology produ
 
 🛠️ Tech Stack
 Frontend: [React/Vue/Angular]
+
 Backend: [Node.js/Express/Django/etc.]
+
 Database: [MongoDB/PostgreSQL/MySQL]
-Payment: [Stripe/PayPal]
+
+Payment: [Stripe/PayPal/M-Pesa/Airtel Money/Mobile Banking]
+
 Authentication: [JWT/OAuth]
+
+
 📁 Project Structure
+
 techhaven/
 ├── client/          # Frontend application
 ├── server/          # Backend API
@@ -59,3 +66,4 @@ For questions or support, reach out to: support@techhaven.com
 🙏 Acknowledgments
 Thanks to all contributors
 Inspiration and resources used
+
