@@ -14,7 +14,7 @@ const Laptops = () => {
       brand: 'Apple',
       image: 'https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=400&h=400&fit=crop',
       specs: ['M3 Max Chip', '64GB RAM', '4TB SSD'],
-      price: { current: 3499 }
+      price: { current: 34990 }
     },
     {
       id: 2,
@@ -22,7 +22,7 @@ const Laptops = () => {
       brand: 'Dell',
       image: 'https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=400&h=400&fit=crop',
       specs: ['Intel i9-13900H', '32GB RAM', '1TB SSD'],
-      price: { current: 2399, original: 2699 },
+      price: { current: 239900, original: 269900 },
       discount: 11
     },
     {
@@ -31,7 +31,7 @@ const Laptops = () => {
       brand: 'ASUS',
       image: 'https://images.unsplash.com/photo-1603302576837-37561b2e2302?w=400&h=400&fit=crop',
       specs: ['Intel Core i9', '32GB RAM', 'RTX 4080'],
-      price: { current: 2499 }
+      price: { current: 349900 }
     },
     {
       id: 4,
@@ -39,7 +39,7 @@ const Laptops = () => {
       brand: 'HP',
       image: 'https://sm.pcmag.com/pcmag_au/review/h/hp-spectre/hp-spectre-x360-16-2024_m8n4.jpg',
       specs: ['Intel i7-1360P', '16GB RAM', '2-in-1 Design'],
-      price: { current: 1699, original: 1899 },
+      price: { current: 46990, original: 48990 },
       discount: 11
     },
     {
@@ -48,7 +48,7 @@ const Laptops = () => {
       brand: 'Lenovo',
       image: 'https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=400&h=400&fit=crop',
       specs: ['Intel i7-1365U', '16GB RAM', 'Ultra-Light'],
-      price: { current: 1899 }
+      price: { current: 38990 }
     },
     {
       id: 6,
@@ -56,7 +56,7 @@ const Laptops = () => {
       brand: 'MSI',
       image: 'https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=400&h=400&fit=crop',
       specs: ['Intel i9-14900HX', '64GB RAM', 'RTX 4090'],
-      price: { current: 4999 }
+      price: { current: 499900 }
     }
   ];
 

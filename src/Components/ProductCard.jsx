@@ -29,9 +29,9 @@ const ProductCard = ({ product }) => {
           ))}
         </div>
         <div className="product-price">
-          <span className="current-price">${product.price.current.toLocaleString()}</span>
+          <span className="current-price">KES {product.price.current.toLocaleString()}</span>
           {product.price.original && (
-            <span className="original-price">${product.price.original.toLocaleString()}</span>
+            <span className="original-price">KES {product.price.original.toLocaleString()}</span>
           )}
           {product.discount && (
             <span className="discount-badge">{product.discount}% OFF</span>
