@@ -49,7 +49,7 @@ const Mobile = () => {
       brand: 'Xiaomi',
       image: 'https://cdn.akakce.com/z/xiaomi/xiaomi-14-pro.jpg',
       specs: ['Leica Camera', '512GB Storage', '120W Charging'],
-      price: { current: 799 }
+      price: { current: 79900 }
     },
     {
       id: 6,
@@ -57,7 +57,7 @@ const Mobile = () => {
       brand: 'OPPO',
       image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9Eh6U5KlUm-PRCMqeTwUPVABQ1Wv3WcRhYA&s',
       specs: ['Dual Periscope', '1TB Storage', 'Hasselblad'],
-      price: { current: 1199 }
+      price: { current: 119900 }
     }
   ];
 

@@ -69,10 +69,10 @@ const Shop = () => {
   ];
 
   const categories = [
-    { name: 'Mobile', count: 2, path: '/mobile' },
-    { name: 'Laptops', count: 2, path: '/laptops' },
-    { name: 'Tablets', count: 1, path: '/tablets' },
-    { name: 'Desktops', count: 1, path: '/desktops' }
+    { name: 'Mobile', count: 6, path: '/mobile' },
+    { name: 'Laptops', count: 6, path: '/laptops' },
+    { name: 'Tablets', count: 3, path: '/tablets' },
+    { name: 'Desktops', count: 3, path: '/desktops' }
   ];
 
   return (

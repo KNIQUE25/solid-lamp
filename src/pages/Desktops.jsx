@@ -8,7 +8,7 @@ const Desktops = () => {
       id: 1,
       name: 'Apple Mac Studio M2 Ultra',
       brand: 'Apple',
-      image: 'https://images.unsplash.com/photo-1593640408182-31c70c8268f5?w=400&h=400&fit=crop',
+      image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBZP_Fm2XFU5-OcN8RQ2Ev1aMcn5JWreDQqA&s',
       specs: ['M2 Ultra Chip', '64GB RAM', '2TB SSD'],
       price: { current: 3999 }
     },
@@ -16,7 +16,7 @@ const Desktops = () => {
       id: 2,
       name: 'Dell Alienware Aurora R16',
       brand: 'Dell',
-      image: 'https://images.unsplash.com/photo-1593640408182-31c70c8268f5?w=400&h=400&fit=crop',
+      image: 'https://sm.pcmag.com/pcmag_me/photo/default/078fwui2ishfdtodnicyblr-3_1qn8.jpg',
       specs: ['Intel i9-14900KF', '32GB RAM', 'RTX 4090'],
       price: { current: 2999, original: 3499 },
       discount: 14
@@ -25,7 +25,7 @@ const Desktops = () => {
       id: 3,
       name: 'HP Envy 34 All-in-One',
       brand: 'HP',
-      image: 'https://images.unsplash.com/photo-1593640408182-31c70c8268f5?w=400&h=400&fit=crop',
+      image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVOy0ao7Mfy4Olr43Tbx7cm5WW1O4UdmelEQ&s',
       specs: ['Intel i7', '32GB RAM', '34" 5K Display'],
       price: { current: 2499 }
     }
